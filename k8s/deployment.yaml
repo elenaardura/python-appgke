@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: python-appgke
-        image: gcr.io/final-exam-elenardura/python-appgke:latest
+        image: gcr.io/final-exam-elenaardura/python-appgke:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
